@@ -1,3 +1,7 @@
+# Author
+
+This was app was designed and created by Treasure Chinyimba (https://github.com/TreasureChinyimba/)
+
 # Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
