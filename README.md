@@ -1,6 +1,6 @@
 # Author
 
-This was app was designed and created by Treasure Chinyimba (https://github.com/TreasureChinyimba/)
+This app was designed and created by Treasure Chinyimba (https://github.com/TreasureChinyimba/)
 
 # Test
 
